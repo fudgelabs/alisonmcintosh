@@ -1,0 +1,46 @@
+
+.section {
+	height: 100vh;
+}
+.section#splash {
+	background-size: cover;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+#brand h1 {
+	text-align: center;
+	width: 100%;
+	background-color: rgba(0,0,0,0.5);
+}
+
+@media (min-width: 769px) {
+	.section#splash {
+		background-image: url('/images/alimc-desktop.jpg');
+	}
+	#brand h1 {
+		font-size: 5em;
+		margin: 0;
+	}
+}
+
+@media (max-width: 768px) {
+	.section#splash {
+		background-image: url('/images/alimc-mobile-portrait 2.jpg');
+	}
+	#brand h1 {
+		font-size: 2em;
+		margin: 0;
+		padding-bottom: 0.5em;
+	}
+}
+
+#brand h1 {
+	font-family: 'Exo 2', sans-serif;
+	color: aliceblue;
+	font-weight: 200;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	position: absolute;
+	bottom: 0;
+}
