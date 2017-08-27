@@ -1,0 +1,53 @@
+.section {
+	height: 100vh;
+}
+
+@media screen and (max-width: 320px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic01.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic02.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic03.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media screen and (min-width: 769px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic04.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+
+
+.section-two {
+	background: url(images/overlay.png), url(../images/two.jpg);
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+.section-three {
+	background: url(images/overlay.png), url(../images/three.jpg);
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}

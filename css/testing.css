@@ -1,0 +1,33 @@
+.section {
+	height: 100vh;
+}
+
+.section#intro {
+	background: url(images/overlay.png), url(../images/alimc-desktop.jpg);
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+.section#one {
+	background: url(images/overlay.png), url(../images/one.jpg);
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+.section#two {
+	background: url(images/overlay.png), url(../images/two.jpg);
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+@media (max-width: 768px) {
+	.section#intro {
+		background: url(images/overlay.png), url('../images/9.16/am-9.16-766x1362.jpg');
+		background-size: 256px 256px, cover;
+	/*    background-attachment: fixed, fixed;*/
+		background-position: top left, center center;
+		background-repeat: repeat, no-repeat;
+}

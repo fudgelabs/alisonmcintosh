@@ -1,24 +1,45 @@
-.section {
-	height: 100vh;
-}
 
 @media (min-width: 769px) {
+	
+}
+
+
+@media (min-width: 769px) {
+	
+}
+
+
+@media (min-width: 769px) {
+	
+}
+
+
+@media (min-width: 769px) {
+	
+}
+
+@media screen and (device-aspect-ratio: 16/9, max-width: 820px) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/.jpg);
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-819x461.jpg);
 		background-size: 256px 256px, cover;
-/*		background-attachment: fixed, fixed;*/
 		background-position: top left, center center;
 	}
 }
 
-@media (max-width: 768px) {
+@media screen and (aspect-ratio: 9/16, max-width: 461px) {
 	.section-one {
-		background: url(images/overlay.png), url('../images/9.16/am-9.16-766x1362.jpg');
+		background: url(images/overlay.png), url(../images/16.9/am-9.16-460x818.jpg);
 		background-size: 256px 256px, cover;
-/*	    background-attachment: fixed, fixed;*/
 		background-position: top left, center center;
-		background-repeat: repeat, no-repeat;
 	}
+}
+
+@media all and (orientation:portrait) {
+	
+}
+
+@media all and (orientation:landscape) {
+	
 }
 
 .section-two {
@@ -35,17 +56,16 @@
     background-position: top left, center center;
 }
 
-
+@media screen and (max-width: 320px) {
 	
+}
+@media screen (min-width: 320px) and (max-width: 480px) {
 	
-#brand h1 {
-	font-family: 'Exo 2', sans-serif;
-	color: aliceblue;
-	font-weight: 200;
-	text-transform: uppercase;
-	letter-spacing: 0.05em;
-	position: absolute;
-	bottom: 0;
+}
+@media screen (min-width: 481px) and (max-width: 768px) {
+	
 }
 
+@media screen (min-width: 769px) {
 	
+}
