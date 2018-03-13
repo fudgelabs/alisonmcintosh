@@ -2,50 +2,197 @@
 	height: 100vh;
 }
 
-@media (min-width: 769px) {
+@media (max-width: 137px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/.jpg);
+		background: url(images/overlay.png), url(../images/pic01.jpg);
 		background-size: 256px 256px, cover;
-/*		background-attachment: fixed, fixed;*/
+		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 272px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url('../images/9.16/am-9.16-766x1362.jpg');
+		background: url(images/overlay.png), url(../images/pic02.jpg);
 		background-size: 256px 256px, cover;
-/*	    background-attachment: fixed, fixed;*/
+		background-attachment: fixed, fixed;
 		background-position: top left, center center;
-		background-repeat: repeat, no-repeat;
 	}
 }
+
+@media (max-width: 409px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic03.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 545px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic04.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 681px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic05.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 818px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic06.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 953px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic07.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 1090px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic08.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 1226px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic09.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 1362px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic10.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 136px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic01.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 272px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic02.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 409px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic03.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 545px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic04.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 681px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic05.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 818px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic06.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 953px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic07.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 1090px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic08.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 1226px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic09.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
+@media (max-width: 1362px) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/pic10.jpg);
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+}
+
 
 .section-two {
-	background: url(images/overlay.png), url(../images/one.jpg);
-    background-size: 256px 256px, cover;
-    background-attachment: fixed, fixed;
-    background-position: top left, center center;
-}
-
-.section-three {
 	background: url(images/overlay.png), url(../images/two.jpg);
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, center center;
 }
 
-
-	
-	
-#brand h1 {
-	font-family: 'Exo 2', sans-serif;
-	color: aliceblue;
-	font-weight: 200;
-	text-transform: uppercase;
-	letter-spacing: 0.05em;
-	position: absolute;
-	bottom: 0;
+.section-three {
+	background: url(images/overlay.png), url(../images/three.jpg);
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
 }
-
-	
