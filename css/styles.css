@@ -2,183 +2,203 @@
 	height: 100vh;
 }
 
-@media (max-width: 137px) and (orientation: portrait) {
+@media (max-width: 77px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic01.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-77x137.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 272px) and (orientation: portrait) {
+@media (max-width: 152px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic02.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-152x272.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 409px) and (orientation: portrait) {
+@media (max-width: 230px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic03.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-230x409.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 545px) and (orientation: portrait) {
+@media (max-width: 307px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic04.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-307x546.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 681px) and (orientation: portrait) {
+@media (max-width: 383px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic05.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-383x681.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 818px) and (orientation: portrait) {
+@media (max-width: 460px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic06.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-460x818.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 953px) and (orientation: portrait) {
+@media (max-width: 536px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic07.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-536x953.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 1090px) and (orientation: portrait) {
+@media (max-width: 613px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic08.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-613x1090.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 1226px) and (orientation: portrait) {
+@media (max-width: 690px) and (orientation: portrait) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic09.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-690x1227.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 1362px) and (orientation: portrait) {
+@media (max-width: 766px) and (orientation: portrait) {/* pretty sure it needs to be max-width: 766px*/
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic10.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-766x1362.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 136px) {
+@media (max-width: 205px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic01.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-205x115.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 272px) {
+@media (max-width: 410px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic02.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-410x231.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 409px) {
+@media (max-width: 614px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic03.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-614x345.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 545px) {
+@media (max-width: 819px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic04.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-819x461.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 681px) {
+@media (max-width: 1024px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic05.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-1024x576.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 818px) {
+@media (max-width: 1229px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic06.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-1229x661.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 953px) {
+@media (max-width: 1434px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic07.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-1434x807.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 1090px) {
+@media (max-width: 1638px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic08.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-1638x921.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 1226px) {
+@media (max-width: 1843px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic09.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-1843x1037.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 
-@media (max-width: 1362px) {
+@media (max-width: 2048px) and (orientation: landscape) {
 	.section-one {
-		background: url(images/overlay.png), url(../images/pic10.jpg);
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-2048x1152.jpg);
+/*		background-size: 256px 256px, cover;*/
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
 	}
 }
 

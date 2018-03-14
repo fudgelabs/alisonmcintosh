@@ -1,0 +1,21 @@
+.section {
+	height: 100vh;
+}
+
+@media (max-width: 375px) and (orientation: portrait) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/9.16/am-9.16-690x1227.jpg);
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
+	}
+}
+
+@media (max-width: 1229px) and (orientation: landscape) {
+	.section-one {
+		background: url(images/overlay.png), url(../images/16.9/am-16.9-1229x691.jpg);
+		background-size: cover;
+/*		background-attachment: fixed, fixed;*/
+/*		background-position: top left, center center;*/
+	}
+}
