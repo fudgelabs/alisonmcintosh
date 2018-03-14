@@ -1,2 +1,4 @@
-/images
+/images/*
+!/images/16.9
+!/images/9.16
 /v0.1
